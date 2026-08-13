@@ -72,6 +72,3 @@ Before AIT, I spent about a year at **Leapfrog Technology** (Kathmandu) — firs
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samichi-rungta&show_icons=true&theme=default&hide_border=true" alt="Samichi's GitHub stats" />
-</p>
