@@ -14,11 +14,13 @@ I'm currently pursuing an **MSc in Applied Computer Science (AI/ML focus)** at t
 
 Before AIT, I spent about a year at **Leapfrog Technology** (Kathmandu) — first as an AI Intern, then as an Associate Software Engineer — building generative AI tools and full-stack web applications for production clients.
 
-- 🔭 Currently studying AI/ML at **AIT, Thailand**
+- 🔭 Currently studying AI/ML at **AIT, Thailand**, including coursework in **Human-Computer Interaction**
+- 🎓 Coursework foundation in **Generative AI, NLP, Computer Vision, Deep Learning, and Machine Learning (I & II)**
 - 🤖 Building with **LangChain, RAG pipelines, and LLM APIs (OpenAI, Gemini)**
-- 🛠️ Comfortable across the stack: **FastAPI** backends, **Next.js** frontends
+- 🛠️ Comfortable across the stack: **FastAPI** backends, **Next.js** frontends, deployed on **Vercel**
+- 🧩 Working on **CMS integrations** (Sanity) for production client sites
+- ⚙️ Automating workflows with **Apache Airflow** and **n8n**
 - 📊 Background in data science: ETL, SQL, predictive modeling, statistical analysis
-- 🌱 Learning: advanced ML/deep learning coursework at AIT
 - 📫 Reach me at **samichi.rungta@gmail.com**
 
 ---
@@ -31,19 +33,25 @@ Before AIT, I spent about a year at **Leapfrog Technology** (Kathmandu) — firs
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI / GenAI**
+**AI / ML / GenAI**
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C2D91?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-2E8B57?style=flat-square)
 
 **Backend & Frontend**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity%20CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
 
-**Data & Tools**
+**Data, Automation & Tools**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
