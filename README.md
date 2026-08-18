@@ -61,9 +61,8 @@ Before AIT, I spent about a year at **Leapfrog Technology** (Kathmandu) — firs
 
 | Project | Description |
 |---|---|
-| **[Project Name]** | GenAI/RAG project — replace with your best LangChain/RAG work |
-| **[Project Name]** | FastAPI backend project — replace with a backend/API project |
-| **[Project Name]** | Next.js frontend project — replace with a frontend build |
+| **[Udaan](https://github.com/samichi-rungta)** | GenAI/RAG project — replace with your best LangChain/RAG work |
+| **[Bakhundole Heights Website](bakhundoleheights.com.np)** | Next.js frontend project — replace with a frontend build |
 | **[CNN Breast Cancer Classification](https://github.com/samichi-rungta)** | CNN model classifying histopathological images as benign/malignant |
 | **[Stock Market Price Prediction](https://github.com/samichi-rungta/Stock-Price-Prediction)** | ARIMAX-based forecasting model using economic and market indicators |
 | **[SQL Backup Automation with Airflow](https://github.com/samichi-rungta/Airflow)** | Automated DB backup pipeline with monitoring and retention rules |
