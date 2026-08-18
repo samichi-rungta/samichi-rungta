@@ -67,7 +67,6 @@ Before AIT, I spent about a year at **Leapfrog Technology** (Kathmandu) — firs
 | **[Stock Market Price Prediction](https://github.com/samichi-rungta/Stock-Price-Prediction)** | ARIMAX-based forecasting model using economic and market indicators |
 | **[SQL Backup Automation with Airflow](https://github.com/samichi-rungta/Airflow)** | Automated DB backup pipeline with monitoring and retention rules |
 
-*(Update the links above once you've pushed and pinned the repos — see the plan below.)*
 
 ---
 
